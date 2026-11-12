@@ -30,6 +30,10 @@
     "paragonie/random_compat": "Provides better randomness in PHP 5.x"
   },
   "require-dev": {
+<<<<<<< HEAD
     "mikey179/vfsstream": "1.1.*",
+=======
+    "mikey179/vfsstream": "1.1.*"
+>>>>>>> d046c36d (Update dependencies for PHP 8.2)
   }
 }
